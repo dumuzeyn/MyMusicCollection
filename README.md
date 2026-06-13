@@ -11,7 +11,7 @@
 
 ## Установка на Телефон
 
-1) Нажмите на кнопку <span style="background-color: #1f883d; color: #ffffff; padding: 2px 6px; border-radius: 4px; font-family: monospace;">Code</span>
+1) Нажмите на кнопку ![Code](covers/images/Code_button_gitApp.png)
 2) Появится два окна `Local` и `Codespaces` автоматически открывается `Local`
 3) Снизу окна будет кнопка `Download ZIP`, нажмите и скачается `zip` файл
 
